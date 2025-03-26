@@ -15,7 +15,7 @@ Weather is a simple command-line (CLI) application that displays weather informa
 ### Compilation and Execution
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/weather-cli.git
+git clone https://github.com/MohammadIcm4007/weather.git
 cd weather-cli
 
 # Compile the program using Makefile
